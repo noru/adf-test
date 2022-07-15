@@ -1,0 +1,12 @@
+{
+	"name": "Hdfs1",
+	"properties": {
+		"description": "test",
+		"annotations": [],
+		"type": "Hdfs",
+		"typeProperties": {
+			"url": "test",
+			"authenticationType": "Anonymous"
+		}
+	}
+}
