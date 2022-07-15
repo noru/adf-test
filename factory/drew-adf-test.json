@@ -1,0 +1,9 @@
+{
+	"name": "drew-adf-test",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "713d8e9a-123e-4eba-a5b8-5dc2d6c863f9",
+		"tenantId": "46326bff-9928-41a0-baca-17c16c94ea99"
+	}
+}
